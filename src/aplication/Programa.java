@@ -79,7 +79,7 @@ public class Programa {
 		
 		
 		
-		
+		System.out.print("Programa finalizado ");
 		
 		leia.close();
 	}
